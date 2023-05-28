@@ -1,0 +1,28 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+html {
+    background-color: rgb(233, 233, 233);
+}
+
+body {
+    background-color: beige;
+    width: 500px;
+    border-radius: 25px;
+    padding: 30px 50px;
+    margin: 50px auto;
+}
+
+h1 {
+    margin: 0px;
+}
+
+img {
+    width: 300px;
+    margin: 10px auto;
+}
+
+li {
+    margin: 5px 0px;
+}
