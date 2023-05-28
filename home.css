@@ -1,0 +1,33 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: rgb(233, 233, 233);
+    margin: 0px 0px;
+}
+
+.header {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+.recipe-list {
+    background-color: beige;
+    width: 300px;
+    margin: 0 auto;
+    padding: 1px 0px;
+    list-style-type: none;
+    border-radius: 15px;
+}
+
+.recipe {
+    text-align: center;
+    margin: 15px 0px;
+}
+
+a {
+    color: black;
+    font-size: 25px;
+}
