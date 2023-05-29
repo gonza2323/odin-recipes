@@ -15,11 +15,12 @@ body {
 
 .recipe-list {
     background-color: beige;
-    width: 300px;
+    width: fit-content;
     margin: 0 auto;
-    padding: 1px 0px;
+    padding: 30px 40px;
     list-style-type: none;
     border-radius: 15px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.2);
 }
 
 .recipe {
