@@ -17,6 +17,9 @@ body {
 
 h1 {
     margin: 0px;
+    text-align: center;
+    font-size: 62px;
+    font-family: "Great Vibes", cursive;
 }
 
 img {
