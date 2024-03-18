@@ -2,3 +2,47 @@
 * {
     box-sizing: border-box;
 }
+
+body {
+    background-color: aliceblue;
+    margin: 0;
+    padding: 48px 16px;
+}
+
+.card {
+    font-family: "Brush Script MT", cursive;
+    background-color: rgb(255, 224, 185);
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 64px 8px;
+    border-radius: 32px;
+}
+
+h1 {
+    font-size: 64px;
+    margin: 0;
+    margin-bottom: 32px;
+}
+
+ul {
+    padding: 0;
+    list-style-type: none;
+    width: fit-content;
+    margin: 0 auto;
+}
+
+li > a {
+    color: rgb(43, 43, 43);
+    background-color: rgb(255, 194, 103);
+    font-size: 32px;
+    display: block;
+    margin: 12px 0;
+    padding: 8px 32px;
+    border-radius: 12px;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: rgb(207, 159, 86);
+}
